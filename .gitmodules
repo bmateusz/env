@@ -13,3 +13,9 @@
 [submodule ".vim/bundle/restore_view.vim"]
 	path = .vim/bundle/restore_view.vim
 	url = https://github.com/vim-scripts/restore_view.vim.git
+[submodule ".vim/bundle/vim-easytags"]
+	path = .vim/bundle/vim-easytags
+	url = https://github.com/xolox/vim-easytags.git
+[submodule ".vim/bundle/vim-misc"]
+	path = .vim/bundle/vim-misc
+	url = https://github.com/xolox/vim-misc
