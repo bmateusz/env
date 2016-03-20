@@ -7,6 +7,8 @@ set mouse=a
 set hlsearch
 set wrapscan
 
+set shiftwidth=2
+
 execute pathogen#infect()
 
 colorscheme badwolf
