@@ -7,15 +7,9 @@
 [submodule ".vim/bundle/nerdtree"]
 	path = .vim/bundle/nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
-[submodule ".vim/bundle/badwolf"]
-	path = .vim/bundle/badwolf
-	url = https://github.com/sjl/badwolf.git
 [submodule ".vim/bundle/restore_view.vim"]
 	path = .vim/bundle/restore_view.vim
 	url = https://github.com/vim-scripts/restore_view.vim.git
-[submodule ".vim/bundle/vim-easytags"]
-	path = .vim/bundle/vim-easytags
-	url = https://github.com/xolox/vim-easytags.git
 [submodule ".vim/bundle/vim-misc"]
 	path = .vim/bundle/vim-misc
 	url = https://github.com/xolox/vim-misc
@@ -25,3 +19,6 @@
 [submodule ".vim/bundle/lightline.vim"]
 	path = .vim/bundle/lightline.vim
 	url = https://github.com/itchyny/lightline.vim
+[submodule ".vim/bundle/vim-lucius"]
+	path = .vim/bundle/vim-lucius
+	url = https://github.com/jonathanfilip/vim-lucius
