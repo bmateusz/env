@@ -118,6 +118,8 @@ if ! shopt -oq posix; then
   fi
 fi
 
+export PATH=$PATH:~/bin
+
 # aliases
 alias ..='cd ..'
 alias ...='cd ../..'

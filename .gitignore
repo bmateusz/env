@@ -2,6 +2,7 @@
 !.bashrc
 !.gitmodules
 !.gitignore
+!bin/*
 !.vim/autoload/*
 !.vim/bundle/*
 !.vimrc
