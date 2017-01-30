@@ -90,7 +90,7 @@ fi
 export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 
 # some more ls aliases
-alias ll='ls -alF'
+alias ll='ls -alFh'
 alias la='ls -A'
 alias l='ls -CF'
 
@@ -124,6 +124,21 @@ export PATH=$PATH:~/bin
 alias ..='cd ..'
 alias ...='cd ../..'
 alias ....='cd ../../..'
+
+alias gs="git status"
+alias gl="git log"
+alias gd="git diff"
+alias gds="git diff --staged"
+alias ga="git add"
+alias gc="git commit"
+alias gco="git checkout"
+alias gp="git push origin master"
+alias gg="git pull"
+
+alias lc="ls *.c"
+alias lh="ls *.h"
+
+alias upd="sudo apt-get update && sudo apt-get upgrade"
 
 alias ali='vim ~/.bash_aliases ; . ~/.bash_aliases'
 
